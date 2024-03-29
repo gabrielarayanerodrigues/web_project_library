@@ -256,29 +256,29 @@
   gap: 10px;
 }
 
-.person_name_feynman {
+.person__name_feynman {
   position: absolute;
   top: -30px;
   left: 319px;
 }
 
-.person_name_burbidge {
+.person__name_burbidge {
   position: absolute;
   top: 96px;
   right: 125px;
 }
 
-.person_name_cannon {
+.person__name_cannon {
   right: 216px;
   bottom: 18px;
 }
 
-.person_name_mitchell {
+.person__name_mitchell {
   left: 142px;
   bottom: 82px;
 }
 
-.person_name_tarter {
+.person__name_tarter {
   top: 79px;
   left: 159px;
 }
